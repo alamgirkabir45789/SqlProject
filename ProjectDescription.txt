@@ -1,0 +1,27 @@
+Project Name:Hospital Management System
+ID:1257263
+Name:Alamgir Kabir
+Batch:ESAD-CS/NVIT-M/44/01
+
+=======================================================================
+
+Project Description:Hospital Management Management is my Project.
+I divide this project two catagory & apply here how we operate Hospital as easy as possible.
+Security is very important of a database.I applyed to create this 
+Database In-A.Data Manipulation Language (DDL)-Section Various 
+Table create,as like Doctor,Patient,Department,Room,Room Catagory
+Record for billing Bill.Medicine And Pathological examination is so important
+ for a parient that's why i produce Lab and medicine table also.Local and global 
+table is important to get information to another file.For structural functioni apply store 
+procedure,schema binding,trigger also apply.Some times we create some mistake that's why i create Rollback and commit  .
+For security some table encrypted. I used this project six clused for query.I Use Merge for update matched unmatched between two table.
+I am also show this project truncate ,Delete ,all join , Cast Convert , DistinctAggregate Function .Mathematical operation , carsor, Fatch  etc .
+
+
+Thanks
+
+
+
+
+
+
